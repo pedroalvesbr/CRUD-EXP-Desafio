@@ -7,4 +7,5 @@ public class ExemploGit {
 
 	}
 	//teste de pull
+	//teste de push - commit
 }
